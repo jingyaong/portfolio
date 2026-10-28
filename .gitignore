@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.vite/
+.sites-runtime/
+.env
+.env.*
+!.env.example
+*.local
+*.log
+.DS_Store
+.vercel/
+artifacts/
+# Private development notes are not part of the public source repository.
+portfolio-content.md
