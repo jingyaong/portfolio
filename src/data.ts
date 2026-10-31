@@ -5,7 +5,7 @@ export const profile = {
   phone: '+60 16-956 8231',
   github: 'https://github.com/jingyaong',
   linkedin: 'https://www.linkedin.com/in/ng-jing-yao-89a172290/',
-  resume: '/Ng%20Jing%20Yao%20Resume.pdf',
+  resume: '/Ng_Jing_Yao_Resume.pdf',
 }
 
 export type ProjectId = 'knowledge-chatbot' | 'easyhealthy'

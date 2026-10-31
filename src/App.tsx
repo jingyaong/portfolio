@@ -117,7 +117,7 @@ function About() {
           <a className="button button-primary" href="#projects">
             Explore my work <Icon name="down" size={18} />
           </a>
-          <a href={profile.resume} className="text-link" download="Ng Jing Yao Resume.pdf">
+          <a href={profile.resume} className="text-link" download="Ng_Jing_Yao_Resume.pdf">
             <Icon name="document" size={18} /> Download resume
           </a>
         </div>

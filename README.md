@@ -53,7 +53,7 @@ project preview and six feature screens in its project details. Each gallery ima
 links to the full-size screenshot. Update the selection and image descriptions
 in `src/data.ts`. Original imports are kept in the ignored `artifacts/` folder.
 
-The hero's Download resume link points to `public/Ng Jing Yao Resume.pdf`.
+The hero's Download resume link points to `public/Ng_Jing_Yao_Resume.pdf`.
 Update `profile.resume` in `src/data.ts` if the filename changes. The site omits
 the app's personal profile screenshot from public assets.
 
