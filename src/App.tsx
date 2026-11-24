@@ -270,15 +270,15 @@ function Skills() {
         <ul className="language-list">
           <li>
             <span>English</span>
-            <small>Proficient</small>
           </li>
           <li>
-            <span>Chinese</span>
-            <small>Native</small>
+            <span>Mandarin</span>
           </li>
           <li>
             <span>Malay</span>
-            <small>Intermediate</small>
+          </li>
+          <li>
+            <span>Cantonese</span>
           </li>
         </ul>
       </section>
