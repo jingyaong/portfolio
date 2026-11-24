@@ -304,6 +304,7 @@ function Education() {
               CGPA <strong>3.73</strong>
             </span>
             <div className="academic-awards">
+              <span>First Class Honours</span>
               <span>
                 Dean’s List <small>Nov 2024</small>
               </span>
